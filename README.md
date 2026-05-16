@@ -12,11 +12,13 @@ width="100%"/>
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  </a>
   
+<p align="center">
   <a href="https://github.com/yourusername/acrobat-reader-notes/releases">
     <img src="https://img.shields.io/badge/Download-Acrobat_pro-red?style=for-the-badge&logo=github" />
-  </a>
-
+    </a>
+  
   ![Last Updated](https://img.shields.io/badge/Last%20updated-May%202026-1f1f1f?style=flat-square)
 
 </p>
